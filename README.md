@@ -4,6 +4,7 @@
 **For contact:**
 
 - **Code4rena**: [grearlake](https://code4rena.com/@grearlake)
+- **Codehawks**: [zukanopro](https://profiles.cyfrin.io/u/zukanopro)
 -    **X**    : [grearlake](https://x.com/grearlake)
 
 ## About me
